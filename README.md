@@ -4,6 +4,9 @@ This is a solution to the Minimal Blog Card challenge on DevChallenges.io. This 
 The Challenge
 The goal was to build out a blog card component and get it looking as close to the provided design as possible. The challenge required careful attention to spacing, typography, colors, and layout.
 
+Solution URL:
+https://srikanth-dhanunjay.github.io/devchallenges-blogcard/
+
 What I Learned
 This project was a fantastic exercise in mastering the CSS Box Model and dealing with common layout challenges.
 
