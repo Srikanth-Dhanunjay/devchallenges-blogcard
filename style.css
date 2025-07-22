@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Sora:wght@100..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Sora", sans-serif;
+    background-color: #ffffff;
+}
+.card{
+    width: 368px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    overflow: hidden;
+    margin: 164px auto auto auto;
+    background-color: #ffffff;
+    padding: 16px;
+}
+.card-image{
+    width: 100%;
+    height: 184px;
+}
+.tag{
+    background-color: #F2EAFD;
+    color: #7C19EE;
+    display: inline-block;
+    padding: 6px 16px;
+    border-radius: 16px;
+    font-size: 10px;
+}
+.card-content{
+    padding-top: 16px;
+}
+
+.card-title{
+    padding: 16px 0 6px 0;
+    color: #20293A;
+    font-size: 18px;
+}
+.card-body{
+    margin-bottom: 20px;
+    color: #394150;
+    font-size: 14px;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: #E5EAF0;
+    margin: 0 -16px;
+}
+.card-author{
+    margin-bottom: 20px;
+    padding-top: 20px;
+    color: #394150;
+    font-size: 12px;
+}
